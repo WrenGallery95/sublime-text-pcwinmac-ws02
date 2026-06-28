@@ -1,4 +1,4 @@
-# 
+# Leve Sublime Text ferramentas para Mac OS | Código aberto Sublime Text ferramentas para PC Windows. Com suporte GraphQL e fluxo de pull request — otimizado para máximo desempenho em cada plataforma.
 
 
 
